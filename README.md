@@ -1,2 +1,2 @@
 # sudoku
-Sudoku Board Solver Haskell
+Sudoku Board Solver implementation in Haskell
